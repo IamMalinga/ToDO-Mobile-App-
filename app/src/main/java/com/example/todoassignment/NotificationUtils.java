@@ -6,7 +6,7 @@ import android.content.Context;
 import android.os.Build;
 
 public class NotificationUtils {
-    public static final String CHANNEL_ID = "task_reminder_channel";
+    public static final String CHANNEL_ID = "default_channel_id";
 
     public static void createNotificationChannel(Context context) {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {

@@ -70,6 +70,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-auth:21.0.6'
     implementation 'com.google.firebase:firebase-firestore:24.0.1'
+    implementation 'com.google.android.gms:play-services-auth:19.2.0'
     implementation libs.androidx.material3
     implementation libs.firebase.firestore
     implementation libs.androidx.swiperefreshlayout
