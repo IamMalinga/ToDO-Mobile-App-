@@ -20,7 +20,7 @@ ToDo Master is an Android application for managing tasks. Users can add, update,
 ![Main Screen](screenshots/main_screen.png)
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/log_in.png)
 
 ### Add Task
 ![Add Task](screenshots/add_task.png)
