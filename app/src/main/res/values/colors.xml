@@ -1,0 +1,19 @@
+<resources>
+    <!-- Other color definitions -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#121212</color>
+    <color name="completed_color">#00FF00</color>
+    <color name="overdue_color">#FFD67B7B</color>
+    <color name="pending_color">#FFFF00</color>
+    <color name="completed_task_background">#8BC34A</color>
+    <color name="overdue_task_background">#FFD67B7B</color>
+    <color name="light_green">#BB86FC</color>
+    <color name="light_red">#FFCDD2</color>
+    <color name="gray">#808080</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Add this line -->
+    <color name="colorAccent">#03DAC5</color> <!-- Add this line -->
+</resources>
