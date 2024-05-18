@@ -22,8 +22,8 @@ ToDo Master is an Android application for managing tasks. Users can add, update,
 ### Add Task
 ![Add Task](screenshots/add_task.png)
 
-### Edit Task
-![Edit Task](screenshots/edit_task.png)
+### Dark Mode
+![Dark_Mode](screenshots/dark_mode.png)
 
 ### Settings
 ![Settings](screenshots/settings_screen.png)
@@ -39,5 +39,5 @@ ToDo Master is an Android application for managing tasks. Users can add, update,
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/todomaster.git
-   cd todomaster
+   git clone [https://github.com/yourusername/todomaster.git](https://github.com/IamMalinga/ToDO-Mobile-App-.git)
+   cd ToDO-Mobile-App-
